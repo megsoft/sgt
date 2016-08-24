@@ -1,0 +1,2 @@
+D:\pandi\Node\basic\basic\obj\Debug\basic.njsprojResolveAssemblyReference.cache
+D:\pandi\Node\basic\basic\bin\Microsoft.NodejsTools.WebRole.dll

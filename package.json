@@ -1,0 +1,24 @@
+{
+  "name": "basic",
+  "version": "0.0.0",
+  "description": "basic",
+  "main": "app.js",
+  "author": {
+    "name": "megsoft12",
+    "email": ""
+  },
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "async": "^2.0.1",
+    "client-sessions": "^0.7.0",
+    "ejs": "^2.5.1",
+    "express": "3.4.4",
+    "findit": "^2.0.0",
+    "mysql": "^2.11.1",
+    "nodemailer": "^2.5.0",
+    "pdfkit": "^0.7.2",
+    "rmdir": "^1.2.0",
+    "stylus": "*",
+    "winston": "^2.2.0"
+  }
+}
